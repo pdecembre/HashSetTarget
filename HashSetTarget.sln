@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSetTarget", "HashSetTarget\HashSetTarget.csproj", "{57C92BD9-2883-4EBE-9694-89D135E2557D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSetTarget.Tests", "HashSetTarget.Tests\HashSetTarget.Tests.csproj", "{3B6AFE26-BC38-4084-BE91-519F3D1A658F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C92BD9-2883-4EBE-9694-89D135E2557D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C92BD9-2883-4EBE-9694-89D135E2557D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C92BD9-2883-4EBE-9694-89D135E2557D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C92BD9-2883-4EBE-9694-89D135E2557D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6AFE26-BC38-4084-BE91-519F3D1A658F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6AFE26-BC38-4084-BE91-519F3D1A658F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6AFE26-BC38-4084-BE91-519F3D1A658F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6AFE26-BC38-4084-BE91-519F3D1A658F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
