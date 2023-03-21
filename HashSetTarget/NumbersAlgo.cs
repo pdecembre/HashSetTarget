@@ -9,8 +9,7 @@ public class NumbersAlgo : INumbersAlgo
 {
     public bool AnyTwoSumToTarget(int[] inputs, int target)
     {
-        var processed = new HashSet<int>(); 
-
+        var processed = new HashSet<int>();
         foreach (var inputItem in inputs)
         {
             // any two numbers in **int[] inputs*** that pass the test:
